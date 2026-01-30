@@ -5,4 +5,4 @@ My name is Kevin.
 
 the time is 4:20 pm
 
-I attended and completed wokrkshop 1 and 2
+I attended and completed workshop 1 and 2
